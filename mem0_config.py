@@ -24,7 +24,7 @@ config = {
             "ollama_base_url": "http://localhost:11434",
         },
     },
-    "api_version": 'v1.1',
+    "api_version": "v1.1",
 }
 
 AGENT_ID = "task_manager_agent"
